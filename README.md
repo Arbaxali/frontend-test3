@@ -3,7 +3,7 @@
 
 
 #JARVIS COCKPIT
-#PAGE-1
-#website url:https://jarvis-cockpit-page-1.netlify.app/
+PAGE-1
+website url:https://jarvis-cockpit-page-1.netlify.app/
 
 
